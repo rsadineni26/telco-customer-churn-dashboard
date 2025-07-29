@@ -11,4 +11,4 @@ This project explores customer churn using the Telco dataset and visualizes key 
 
 ## How to Run
 ```bash
-streamlit run tcc.py
+streamlit run app.py
